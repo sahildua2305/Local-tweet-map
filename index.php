@@ -1,4 +1,3 @@
-<?php include '/home/mkstin/public_html/sahildua.com/inc/all.inc.php'; ?>
 <!DOCTYPE html>
 <html>
 	<head>
