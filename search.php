@@ -21,8 +21,5 @@
 		break;
 	}
 	echo json_encode($tweet);
-	
-	/*print '<pre>';
-	print_r($tweet);
-	print '</pre>';*/
+
 ?>
